@@ -1,0 +1,5 @@
+PPT: https://conclusionfutureit-my.sharepoint.com/personal/maarten_smeets_amis_nl/_layouts/15/onedrive.aspx
+
+MAAS GUI: http://localhost:5240/MAAS
+Juju GUI: juju gui
+Dashboard: kubectl proxy #http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/#/login
